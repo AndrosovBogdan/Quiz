@@ -239,3 +239,5 @@ function timer(duration) {
 
     setTimeout(updateTimer, 1000)
 }
+
+let privit = 'privit'
